@@ -363,6 +363,18 @@ const productWorks = [
     description: "Cartoonish food scene featuring sliced fish on a wooden board",
     image: "https://i.imgur.com/DwkATyt.png",
     tools: ["Blender", "Cycles", "Stylized"]
+  },
+  {
+    title: "Gaming Controller",
+    description: "Modern gaming controller with detailed buttons and ergonomic design",
+    image: "https://i.imgur.com/YvXNEwn.jpeg",
+    tools: ["Blender", "Cycles", "Tech"]
+  },
+  {
+    title: "Coffee Cup Set",
+    description: "Elegant coffee cup set with saucer and spoon in porcelain material",
+    image: "https://i.imgur.com/K2L4Rgw.jpeg",
+    tools: ["Blender", "Cycles", "Product"]
   }
 ];
 
@@ -474,6 +486,21 @@ const additionalDesignWorks = [
     title: "Annual Report Design",
     description: "Corporate annual report with infographics",
     image: "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg"
+  },
+  {
+    title: "Luxury Brand Identity",
+    description: "Sophisticated branding for high-end fashion label",
+    image: "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg"
+  },
+  {
+    title: "Coffee Shop Branding",
+    description: "Complete brand package for artisanal coffee shop",
+    image: "https://images.pexels.com/photos/1813466/pexels-photo-1813466.jpeg"
+  },
+  {
+    title: "Wedding Invitation Suite",
+    description: "Elegant stationery design for wedding celebrations",
+    image: "https://images.pexels.com/photos/7319158/pexels-photo-7319158.jpeg"
   }
 ];
 
@@ -495,6 +522,12 @@ const videoWorks = [
     description: "Quick tips and tricks for creative software",
     embedUrl: "https://youtube.com/embed/GFXxY-5m6Ek",
     url: "https://youtube.com/shorts/GFXxY-5m6Ek"
+  },
+  {
+    title: "Travel Vlog",
+    description: "Cinematic travel footage with smooth transitions",
+    embedUrl: "https://youtube.com/embed/XYZ123abc",
+    url: "https://youtube.com/shorts/XYZ123abc"
   }
 ];
 
