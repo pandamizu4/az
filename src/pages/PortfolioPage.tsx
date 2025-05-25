@@ -270,16 +270,16 @@ const productWorks = [
     
   },
   {
+    title: "DR. Glow Eye Serum",
+    description: "Minimalist eye serum bottle with soft lighting, designed to highlight hydration and anti-fatigue benefits",
+    image: "https://i.imgur.com/BWgi0uv.jpeg",
+    tools: ["Blender", "Cycles", "Product"]
+  },
+  {
     title: "Smartphone Mockup",
     description: "Modern phone concept render with subtle glow and reflections",
     image: "https://i.imgur.com/rVQYIjW.jpeg",
     tools: ["Blender", "Cycles", "Tech"]
-  },
-  {
-    title: "Medical Box Icon",
-    description: "Stylized 3D model of a medical first-aid box for icons or games",
-    image: "https://i.imgur.com/mAt0oNx.jpeg",
-    tools: ["Blender", "Cycles", "Stylized"]
   },
   {
     title: "Coca-Cola Can",
@@ -288,10 +288,10 @@ const productWorks = [
     tools: ["Blender", "Cycles", "Product"]
   },
   {
-    title: "DR. Glow Eye Serum",
-    description: "Minimalist eye serum bottle with soft lighting, designed to highlight hydration and anti-fatigue benefits",
-    image: "https://i.imgur.com/BWgi0uv.jpeg",
-    tools: ["Blender", "Cycles", "Product"]
+    title: "Medical Box Icon",
+    description: "Stylized 3D model of a medical first-aid box for icons or games",
+    image: "https://i.imgur.com/mAt0oNx.jpeg",
+    tools: ["Blender", "Cycles", "Stylized"]
   },
   {
     title: "Supplement Bottle",
