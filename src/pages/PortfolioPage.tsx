@@ -263,16 +263,17 @@ const productWorks = [
     tools: ["Blender", "Cycles", "Product"]
   },
   {
-    title: "Minimalist Perfume Bottle",
-    description: "Frosted glass material with subtle reflections for a luxury cosmetic look",
-    image: "https://i.imgur.com/V6fpOW9.jpeg",
-    tools: ["Blender", "Cycles", "Cosmetic"]
+    title: "Hydra Glow Serum",
+    description: "Minimalist skincare product shot featuring a blue dropper bottle with elegant lighting and shadows",
+    image: "https://i.imgur.com/7MIVYJh.jpeg",
+    tools: ["Blender", "Cycles", "Product"]
+    
   },
   {
-    title: "Whey Protein Jar",
-    description: "High-detail product visualization with label design and soft studio lighting",
-    image: "https://i.imgur.com/OKn8jFu.png",
-    tools: ["Blender", "Cycles", "Packaging"]
+    title: "Smartphone Mockup",
+    description: "Modern phone concept render with subtle glow and reflections",
+    image: "https://i.imgur.com/rVQYIjW.jpeg",
+    tools: ["Blender", "Cycles", "Tech"]
   },
   {
     title: "Medical Box Icon",
@@ -287,10 +288,10 @@ const productWorks = [
     tools: ["Blender", "Cycles", "Product"]
   },
   {
-    title: "Smartphone Mockup",
-    description: "Modern phone concept render with subtle glow and reflections",
-    image: "https://i.imgur.com/rVQYIjW.jpeg",
-    tools: ["Blender", "Cycles", "Tech"]
+    title: "DR. Glow Eye Serum",
+    description: "Minimalist eye serum bottle with soft lighting, designed to highlight hydration and anti-fatigue benefits",
+    image: "https://i.imgur.com/BWgi0uv.jpeg",
+    tools: ["Blender", "Cycles", "Product"]
   },
   {
     title: "Supplement Bottle",
@@ -365,16 +366,16 @@ const productWorks = [
     tools: ["Blender", "Cycles", "Stylized"]
   },
   {
-    title: "Hydra Glow Serum",
-    description: "Minimalist skincare product shot featuring a blue dropper bottle with elegant lighting and shadows",
-    image: "https://i.imgur.com/7MIVYJh.jpeg",
-    tools: ["Blender", "Cycles", "Product"]
+    title: "Minimalist Perfume Bottle",
+    description: "Frosted glass material with subtle reflections for a luxury cosmetic look",
+    image: "https://i.imgur.com/V6fpOW9.jpeg",
+    tools: ["Blender", "Cycles", "Cosmetic"]
   },
   {
-    title: "DR. Glow Eye Serum",
-    description: "Minimalist eye serum bottle with soft lighting, designed to highlight hydration and anti-fatigue benefits",
-    image: "https://i.imgur.com/BWgi0uv.jpeg",
-    tools: ["Blender", "Cycles", "Product"]
+    title: "Whey Protein Jar",
+    description: "High-detail product visualization with label design and soft studio lighting",
+    image: "https://i.imgur.com/OKn8jFu.png",
+    tools: ["Blender", "Cycles", "Packaging"]
   }
 ];
 
