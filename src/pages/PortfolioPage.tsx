@@ -367,13 +367,13 @@ const productWorks = [
   {
     title: "Hydra Glow Serum",
     description: "Minimalist skincare product shot featuring a blue dropper bottle with elegant lighting and shadows",
-    image: "https://i.imgur.com/PLKzslC.jpeg",
+    image: "https://i.imgur.com/7MIVYJh.jpeg",
     tools: ["Blender", "Cycles", "Product"]
   },
   {
-    title: "Coffee Cup Set",
-    description: "Elegant coffee cup set with saucer and spoon in porcelain material",
-    image: "https://i.imgur.com/K2L4Rgw.jpeg",
+    title: "DR. Glow Eye Serum",
+    description: "Minimalist eye serum bottle with soft lighting, designed to highlight hydration and anti-fatigue benefits",
+    image: "https://i.imgur.com/BWgi0uv.jpeg",
     tools: ["Blender", "Cycles", "Product"]
   }
 ];
