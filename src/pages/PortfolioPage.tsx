@@ -365,10 +365,10 @@ const productWorks = [
     tools: ["Blender", "Cycles", "Stylized"]
   },
   {
-    title: "Gaming Controller",
-    description: "Modern gaming controller with detailed buttons and ergonomic design",
-    image: "https://i.imgur.com/YvXNEwn.jpeg",
-    tools: ["Blender", "Cycles", "Tech"]
+    title: "Hydra Glow Serum",
+    description: "Minimalist skincare product shot featuring a blue dropper bottle with elegant lighting and shadows",
+    image: "https://i.imgur.com/PLKzslC.jpeg",
+    tools: ["Blender", "Cycles", "Product"]
   },
   {
     title: "Coffee Cup Set",
