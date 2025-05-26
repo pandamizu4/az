@@ -411,24 +411,24 @@ const designWorks = [
     image: "https://i.imgur.com/2MLH0il.jpeg"
   },
   {
-    title: "Food Packaging Designs",
-    description: "Creative packaging design for artisanal food products",
-    image: "https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg"
+    title: "Fede Valverde Sports Poster",
+    description: "Stylized football graphic with minimalist design and impactful typography, highlighting Valverde’s athletic form in monochrome with blue accent",
+    image: "https://i.imgur.com/skiBKvN.jpeg"
   },
   {
-    title: "Event Poster Design",
-    description: "Eye-catching poster for music festival",
-    image: "https://images.pexels.com/photos/1293120/pexels-photo-1293120.jpeg"
+    title: "Klee-Inspired Genshin Bag Promo",
+    description: "Vibrant promotional design for a fantasy-themed bag inspired by Klee from Genshin Impact, featuring playful elements, warm colors, and a whimsical game-style aesthetic",
+    image: "https://i.imgur.com/QezWKm0.png"
   },
   {
-    title: "Corporate Branding",
-    description: "Complete brand identity package for tech startup",
-    image: "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg"
+    title: "Spicy Burger Promo Design",
+    description: "Bold fast food advertisement featuring a vibrant burger with spicy accents, playful typography, and a dynamic color scheme to grab attention",
+    image: "https://i.imgur.com/xo7HlOp.png"
   },
   {
-    title: "Magazine Cover",
-    description: "Contemporary magazine cover design",
-    image: "https://images.pexels.com/photos/1591056/pexels-photo-1591056.jpeg"
+    title: "Fried Chicken Special Offer",
+    description: "Clean and modern promotional design with crispy fried chicken as the focus, strong contrast, and clear call-to-action for limited-time deals",
+    image: "https://i.imgur.com/drH2llQ.png"
   },
   {
     title: "Web Design",
