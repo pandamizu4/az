@@ -381,18 +381,18 @@ const productWorks = [
 
 const designWorks = [
   {
-    title: "Brand Identity Design",
-    description: "Modern branding concept with clean typography and bold colors",
+    title: "Indomie TAKOYAKI Packaging Design",
+    description: "Premium instant noodle packaging with bold Japanese-inspired typography and a rich color palette that emphasizes flavor and authenticity",
     image: "https://i.imgur.com/OaxSf5q.jpeg"
   },
   {
-    title: "Social Media Campaign",
-    description: "Engaging content series for product launch",
+    title: "Toni Kroos Graphic Poster",
+    description: "Minimalist football poster with modern typography and a monochrome purple theme that highlights the athlete's form and movement",
     image: "https://i.imgur.com/S5JzCuF.jpeg"
   },
   {
-    title: "Editorial Layout",
-    description: "Magazine spread design with dynamic composition",
+    title: "Cristiano Ronaldo Sports Poster",
+    description: "Dynamic and powerful sports design using bold red and white contrast, classic serif typography, and a signature football pose",
     image: "https://i.imgur.com/9WBI55D.jpeg"
   },
   {
