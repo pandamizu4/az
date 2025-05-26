@@ -411,7 +411,7 @@ const designWorks = [
     image: "https://i.imgur.com/2MLH0il.jpeg"
   },
   {
-    title: "Food Packaging Design",
+    title: "Food Packaging Designs",
     description: "Creative packaging design for artisanal food products",
     image: "https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg"
   },
