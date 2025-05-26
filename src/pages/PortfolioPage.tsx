@@ -474,34 +474,34 @@ const additionalDesignWorks = [
     image: "https://i.imgur.com/gU2fLs4.jpeg"
   },
   {
-    title: "Wellness App Design",
-    description: "Mobile app design for meditation and mindfulness",
-    image: "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg"
+    title: "Carrot Character Set 1",
+    description: "Cute vector carrots with fun expressions and playful style.",
+    image: "https://i.imgur.com/j8Uu3mY.jpeg"
   },
   {
-    title: "Eco-Friendly Packaging",
-    description: "Sustainable packaging design for organic products",
-    image: "https://images.pexels.com/photos/4040644/pexels-photo-4040644.jpeg"
+    title: "Carrot Character Set 2",
+    description: "Expressive cartoon carrot illustrations with emotional poses.",
+    image: "https://i.imgur.com/Iq2vgT5.jpeg"
   },
   {
-    title: "Annual Report Design",
-    description: "Corporate annual report with infographics",
-    image: "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg"
+    titl: "Body Positive Woman Illustration",
+    description: "Flat vector of a confident plus-size woman posing happily.",
+    image: "https://i.imgur.com/dYf1pR6.jpeg"
   },
   {
-    title: "Luxury Brand Identity",
-    description: "Sophisticated branding for high-end fashion label",
-    image: "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg"
+    title: "Fitness Women Illustration",
+    description: "Fun vector showing two plus-size women skipping rope outdoors.",
+    image: "https://i.imgur.com/MFshHqK.jpeg"
   },
   {
-    title: "Coffee Shop Branding",
-    description: "Complete brand package for artisanal coffee shop",
-    image: "https://images.pexels.com/photos/1813466/pexels-photo-1813466.jpeg"
+    title: "Fast Food Icons Set",
+    description: "Colorful vector icons of various fast food items in flat style.",
+    image: "https://i.imgur.com/79cZcNn.jpeg"
   },
   {
-    title: "Wedding Invitation Suite",
-    description: "Elegant stationery design for wedding celebrations",
-    image: "https://images.pexels.com/photos/7319158/pexels-photo-7319158.jpeg"
+    title: "Lightbulb Ideas Icon Set",
+    description: "Creative vector of glowing light bulbs representing bright ideas.",
+    image: "https://i.imgur.com/h7hk1sr.jpeg"
   }
 ];
 
