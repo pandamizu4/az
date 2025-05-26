@@ -396,18 +396,18 @@ const designWorks = [
     image: "https://i.imgur.com/9WBI55D.jpeg"
   },
   {
-    title: "Product Photography",
-    description: "Minimalist product shots with natural lighting",
+    title: "Chinese New Year Greeting Card",
+    description: "estive Imlek greeting design with red ornaments and classic Chinese elements",
     image: "https://i.imgur.com/FlH2DrU.jpeg"
   },
   {
-    title: "Digital Illustration",
-    description: "Custom artwork for marketing materials",
+    title: "Photo Manipulation: Coca-Cola Tentacles",
+    description: "Surreal image manipulation of a Coke can entangled by dark tentacles",
     image: "https://i.imgur.com/rQxdlXM.jpeg"
   },
   {
-    title: "UI/UX Design",
-    description: "Mobile app interface with intuitive navigation",
+    title: "Photo Manipulation: Shoe House",
+    description: "Creative photo manipulation of a giant sneaker transformed into a house in nature",
     image: "https://i.imgur.com/2MLH0il.jpeg"
   },
   {
