@@ -431,47 +431,47 @@ const designWorks = [
     image: "https://i.imgur.com/drH2llQ.png"
   },
   {
-    title: "Web Design",
-    description: "Modern e-commerce website design",
-    image: "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg"
+    title: "Minimal Beauty Poster",
+    description: "Modern minimalist layout for beauty or skincare branding",
+    image: "https://i.imgur.com/Ab8CpCy.png"
   },
   {
-    title: "Social Media Kit",
-    description: "Cohesive social media template design",
-    image: "https://images.pexels.com/photos/5082566/pexels-photo-5082566.jpeg"
+    title: "Pandapedia Dark Design",
+    description: "Bold dark theme poster with neon pink accents",
+    image: "https://i.imgur.com/PA3PI16.jpeg"
   }
 ];
 
 const additionalDesignWorks = [
   {
-    title: "Fashion Lookbook",
-    description: "Seasonal collection showcase with editorial styling",
-    image: "https://images.pexels.com/photos/994523/pexels-photo-994523.jpeg"
+    title: "Color Splash Poster",
+    description: "Creative poster with vibrant paint splash visuals",
+    image: "https://i.imgur.com/x3qC7OU.png"
   },
   {
-    title: "Restaurant Menu",
-    description: "Elegant menu design with food photography",
-    image: "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg"
+    title: "Food Menu Design",
+    description: "Warm and inviting food menu with featured dish photos",
+    image: "https://i.imgur.com/iiz36i7.png"
   },
   {
-    title: "Travel Brochure",
-    description: "Destination marketing with stunning visuals",
-    image: "https://images.pexels.com/photos/2325446/pexels-photo-2325446.jpeg"
+    title: "Yellow Theme Food Menu",
+    description: "Bright yellow theme menu design with clear food sections",
+    image: "https://i.imgur.com/ZCccFil.png"
   },
   {
-    title: "Beauty Product Packaging",
-    description: "Luxurious skincare product packaging design",
-    image: "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg"
+    title: "Social Media Design Promo",
+    description: "Clean Instagram post design promo for only IDR 25K",
+    image: "https://i.imgur.com/YkjXxqG.jpeg"
   },
   {
-    title: "Festival Branding",
-    description: "Complete visual identity for arts festival",
-    image: "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg"
+    title: "We're Open Poster",
+    description: "Simple gradient poster to announce store opening hours",
+    image: "https://i.imgur.com/SiKmUmC.jpeg"
   },
   {
-    title: "Book Cover Series",
-    description: "Contemporary book cover designs for fiction series",
-    image: "https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg"
+    title: "Shorts Editor Promo",
+    description: "Fun illustration ad for short-form video editing service",
+    image: "https://i.imgur.com/gU2fLs4.jpeg"
   },
   {
     title: "Wellness App Design",
