@@ -207,10 +207,10 @@ const featuredWorks = [
     image: "https://i.imgur.com/NslPjJ3.png"
   },
   {
-    title: "Fede Valverde Sports Poster",
-    description: "Stylized football graphic with minimalist design and impactful typography, highlighting Valverde's athletic form in monochrome with blue accent.",
+    title: "Photo Manipulation: Shoe House",
+    description: "Creative photo manipulation of a giant sneaker transformed into a house in nature.",
     category: "Social Media Content",
-    image: "https://i.imgur.com/skiBKvN.jpeg"
+    image: "https://i.imgur.com/2MLH0il.jpeg"
   },
   {
     title: "Fitness App Promo",
