@@ -68,8 +68,8 @@ const Footer = () => {
             </h3>
             <p className="text-gray-400 max-w-xs">
               {language === 'en' 
-                ? 'Creating stunning 3D designs, engaging video content, and intuitive user interfaces.'
-                : 'Menciptakan desain 3D yang memukau, konten video yang menarik, dan antarmuka pengguna yang intuitif.'}
+                ? 'Producing 3D visuals, engaging videos, and versatile graphic designs.'
+                : 'Membuat render 3D fotorealistik, mengedit video menarik dan desain grafis untuk berbagai platform.'}
             </p>
             <div className="flex items-center space-x-2 text-gray-400">
               <MapPin size={16} />
