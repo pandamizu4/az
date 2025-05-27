@@ -533,5 +533,3 @@ const videoWorks = [
 ];
 
 export default PortfolioPage;
-
-export default PortfolioPage
