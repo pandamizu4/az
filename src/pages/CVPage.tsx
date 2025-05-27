@@ -16,7 +16,7 @@ const CVPage = () => {
           period: "2021 - 2023",
           achievements: [
             "Designed and produced visually compelling food packaging labels, enhancing brand visibility and market appeal",
-            "Created engaging social media content that increased client engagement rates by 40%",
+            "Produced compelling social media posts that led to noticeable improvements in audience engagement",
             "Developed custom invitation designs for various events, receiving consistent positive client feedback",
             "Executed promotional campaigns for herbal products, contributing to increased digital presence"
           ]
