@@ -207,7 +207,7 @@ const PortfolioPage = () => {
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-1 text-indigo-600 dark:text-indigo-400 text-sm mt-2 hover:underline"
                     >
-                      Watch on YouTube <ExternalLink className="w-4 h-4" />
+                      {video.url.includes('instagram.com') ? 'Watch on Instagram' : 'Watch on YouTube'} <ExternalLink className="w-4 h-4" />
                     </a>
                   </div>
                 </motion.div>
@@ -412,7 +412,7 @@ const designWorks = [
   },
   {
     title: "Fede Valverde Sports Poster",
-    description: "Stylized football graphic with minimalist design and impactful typography, highlighting Valverde’s athletic form in monochrome with blue accent",
+    description: "Stylized football graphic with minimalist design and impactful typography, highlighting Valverde's athletic form in monochrome with blue accent",
     image: "https://i.imgur.com/skiBKvN.jpeg"
   },
   {
@@ -484,7 +484,7 @@ const additionalDesignWorks = [
     image: "https://i.imgur.com/Iq2vgT5.jpeg"
   },
   {
-    titl: "Body Positive Woman Illustration",
+    title: "Body Positive Woman Illustration",
     description: "Flat vector of a confident plus-size woman posing happily.",
     image: "https://i.imgur.com/dYf1pR6.jpeg"
   },
