@@ -215,8 +215,8 @@ const featuredWorks = [
   {
     title: "Hydra Glow Serum",
     description: "Minimalist eye serum bottle with soft lighting, designed to highlight hydration and anti-fatigue benefits.",
-    category: "Video Editing",
-    image: "https://images.pexels.com/photos/4062467/pexels-photo-4062467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    category: "Product Visualization",
+    image: "https://i.imgur.com/BWgi0uv.jpeg"
   }
 ];
 
