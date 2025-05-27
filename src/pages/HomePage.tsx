@@ -207,8 +207,8 @@ const featuredWorks = [
     image: "https://i.imgur.com/NslPjJ3.png"
   },
   {
-    title: "Fashion Brand Social Content",
-    description: "Engaging social media content for a premium fashion brand's summer collection.",
+    title: "Fede Valverde Sports Poster",
+    description: "Stylized football graphic with minimalist design and impactful typography, highlighting Valverde's athletic form in monochrome with blue accent.",
     category: "Social Media Content",
     image: "https://images.pexels.com/photos/6347888/pexels-photo-6347888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
