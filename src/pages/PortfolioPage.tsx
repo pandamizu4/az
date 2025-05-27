@@ -507,16 +507,16 @@ const additionalDesignWorks = [
 
 const videoWorks = [
   {
-    title: "Product Launch Teaser",
-    description: "Dynamic short-form video showcasing new product features",
-    embedUrl: "https://www.instagram.com/reel/DHpS3L7NGCg/embed",
-    url: "https://www.instagram.com/reel/DHpS3L7NGCg/"
+    title: "Sumatran Tiger Short",
+    description: "Striking short video capturing glimpses of the elusive and endangered Sumatran tiger in the wild",
+    embedUrl: "https://youtube.com/embed/7X2TizWoY0s",
+    url: "https://youtube.com/shorts/7X2TizWoY0s?si=O7xL21D9hSOUQWcZ"
   },
   {
     title: "Brand Story",
     description: "Engaging narrative about brand values and mission",
-    embedUrl: "https://youtube.com/embed/7X2TizWoY0s",
-    url: "https://youtube.com/shorts/7X2TizWoY0s?si=O7xL21D9hSOUQWcZ"
+    embedUrl: "https://www.youtube.com/embed/GFXxY-5m6Ek",
+    url: "https://www.youtube.com/shorts/GFXxY-5m6Ek"
   },
   {
     title: "Tutorial Series",
