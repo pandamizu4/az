@@ -507,26 +507,26 @@ const additionalDesignWorks = [
 
 const videoWorks = [
   {
-    title: "Sumatran Tiger Short",
+    title: "Sumatran Tiger",
     description: "Striking short video capturing glimpses of the elusive and endangered Sumatran tiger in the wild",
     embedUrl: "https://youtube.com/embed/7X2TizWoY0s",
     url: "https://youtube.com/shorts/7X2TizWoY0s?si=O7xL21D9hSOUQWcZ"
   },
   {
-    title: "Brand Story",
+    title: "Whale Sound Explained",
     description: "Short educational video revealing the mystery behind whale sounds and how these majestic creatures communicate underwater",
     embedUrl: "https://www.youtube.com/embed/GFXxY-5m6Ek",
     url: "https://www.youtube.com/shorts/GFXxY-5m6Ek"
   },
   {
-    title: "Tutorial Series",
+    title: "Pertamina Corruption Scandal Update",
     description: "Quick tips and tricks for creative software",
     embedUrl: "https://youtube.com/embed/GFXxY-5m6Ek",
     url: "https://youtube.com/shorts/GFXxY-5m6Ek"
   },
   {
-    title: "Travel Vlog",
-    description: "Cinematic travel footage with smooth transitions",
+    title: "Pertamina Corruption Scandal Update",
+    description: "Short explainer video revealing the massive Pertamina oil corruption case, with losses exceeding 193 trillion Rupiah and 9 suspects named as of February 2025",
     embedUrl: "https://youtube.com/embed/XYZ123abc",
     url: "https://youtube.com/shorts/XYZ123abc"
   }
