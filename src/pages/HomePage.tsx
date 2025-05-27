@@ -201,10 +201,10 @@ const HomePage = () => {
 
 const featuredWorks = [
   {
-    title: "Modern Perfume Bottle",
-    description: "3D visualization of elegant perfume packaging with realistic glass material and lighting.",
+    title: "DR. Glow Eye Serum",
+    description: "Stylized transparent plastic bottle with colored liquid and realistic lighting.",
     category: "Product Visualization",
-    image: "https://images.pexels.com/photos/3910071/pexels-photo-3910071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    image: "https://i.imgur.com/NslPjJ3.png"
   },
   {
     title: "Fashion Brand Social Content",
