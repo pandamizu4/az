@@ -116,7 +116,7 @@ const CVPage = () => {
         intermediate: "Menengah"
       },
       downloadCV: "Unduh CV",
-      downloadUrl: "https://www.mediafire.com/file/n0200t6uzznxls8/MediaFire_-_Getting_Started.pdf/file"
+      downloadUrl: "https://www.mediafire.com/file/o0b707j34c2dc3v/CV_Pandu.pdf/file"
     }
   };
 
