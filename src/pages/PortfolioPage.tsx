@@ -528,7 +528,7 @@ const videoWorks = [
     title: "Pertamina Corruption Scandal Update",
     description: "Short explainer video revealing the massive Pertamina oil corruption case, with losses exceeding 193 trillion Rupiah and 9 suspects named as of February 2025",
     embedUrl: "https://youtube.com/embed/XYZ123abc",
-    url: "https://youtube.com/shorts/XYZ123abc"
+    url: "https://www.instagram.com/reel/DGv8eNst7H9/"
   }
 ];
 
