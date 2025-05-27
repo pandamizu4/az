@@ -168,7 +168,7 @@ const CVPage = () => {
             <motion.div variants={fadeInUpVariants}>
               <h1 className="text-4xl md:text-5xl font-bold mb-6">Pandu Tirta Buana</h1>
               <p className="text-xl text-white/80 mb-4">
-                {language === 'en' ? 'Multimedia Designer & Content Creator' : 'Desainer Multimedia & Pembuat Konten'}
+                {language === 'en' ? 'Multimedia Designer' : 'Multimedia Desainer'}
               </p>
               
               {/* Contact Info in Hero */}
