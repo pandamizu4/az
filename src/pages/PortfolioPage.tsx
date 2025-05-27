@@ -514,7 +514,7 @@ const videoWorks = [
   },
   {
     title: "Brand Story",
-    description: "Engaging narrative about brand values and mission",
+    description: "Short educational video revealing the mystery behind whale sounds and how these majestic creatures communicate underwater",
     embedUrl: "https://www.youtube.com/embed/GFXxY-5m6Ek",
     url: "https://www.youtube.com/shorts/GFXxY-5m6Ek"
   },
