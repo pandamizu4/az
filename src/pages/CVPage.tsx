@@ -72,7 +72,7 @@ const CVPage = () => {
           period: "2021 - 2023",
           achievements: [
             "Mendesain dan memproduksi label kemasan makanan yang menarik secara visual, meningkatkan visibilitas merek dan daya tarik pasar",
-            "Membuat konten media sosial yang menarik yang meningkatkan tingkat keterlibatan klien sebesar 40%",
+            "Menghasilkan konten media sosial yang menarik dan disesuaikan dengan audiens target di berbagai platform",
             "Mengembangkan desain undangan khusus untuk berbagai acara, menerima umpan balik positif yang konsisten dari klien",
             "Melaksanakan kampanye promosi untuk produk herbal, berkontribusi pada peningkatan kehadiran digital"
           ]
