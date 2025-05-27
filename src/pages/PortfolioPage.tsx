@@ -519,10 +519,10 @@ const videoWorks = [
     url: "https://www.youtube.com/shorts/GFXxY-5m6Ek"
   },
   {
-    title: "Pertamina Corruption Scandal Update",
-    description: "Quick tips and tricks for creative software",
-    embedUrl: "https://youtube.com/embed/GFXxY-5m6Ek",
-    url: "https://youtube.com/shorts/GFXxY-5m6Ek"
+    title: "Why Bats Sleep Upside Down",
+    description: "Short educational video explaining the fascinating reason behind why bats hang upside down while sleeping",
+    embedUrl: "https://www.youtube.com/shorts/tgc8IHu5WL8",
+    url: "https://youtube.com/shorts/GFXxY-5m6Ekhttps://www.youtube.com/shorts/tgc8IHu5WL8"
   },
   {
     title: "Pertamina Corruption Scandal Update",
